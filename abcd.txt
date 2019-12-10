@@ -2,7 +2,11 @@ ABCD OK
 - asdasd
   *asdsa
   *asdasdasdas
+   ^ zzzz (ditambah oleh programmer1)
+   ^ zzxx (ditambah oleh programmer1)
 - xxxx
 - dsadsa
+  ^ zzaa (ditambah oleh programmer1)
 - zxczxc
 - qweqwe
+- asdasdadddd (ditambah oleh programmer1)
