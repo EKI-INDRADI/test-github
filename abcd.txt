@@ -4,9 +4,9 @@ ABCD OK
   *asdasdasdas
    ^ zzzz (ditambah oleh programmer1)
    ^ zzxx (ditambah oleh programmer1)
-- xxxx
 - dsadsa
-  ^ zzaa (ditambah oleh programmer1)
+   ^ zsss (ditambah oleh programmer2)
+- xxxx
 - zxczxc
 - qweqwe
 - asdasdadddd (ditambah oleh programmer1)
