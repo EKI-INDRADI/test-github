@@ -3,6 +3,7 @@ ABCD OK
   *asdsa
   *asdasdasdas
    ^ zzzz (ditambah oleh programmer1)
+   ^ zzxx (ditambah oleh programmer1)
 - xxxx
 - dsadsa
   ^ zzaa (ditambah oleh programmer1)
